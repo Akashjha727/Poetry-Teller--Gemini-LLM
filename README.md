@@ -23,7 +23,7 @@ This repository contains the code for an interactive poetry generation app built
 
 **Prerequisites:**
 
-- Python 3.x
+- Python 3.10 & above
 - A Google Cloud Platform account with a valid API key for the Google AI Generative Language service
 
 **Installation:**
@@ -52,6 +52,7 @@ This repository contains the code for an interactive poetry generation app built
 3. Access the app in your web browser at the provided local URL.
 
 **## Image**
+<img width="642" alt="Screenshot" src="https://github.com/Akashjha727/Poetry-Teller--Gemini-LLM/assets/143934503/f2b2993e-1213-4e10-a6a6-59aa6797aee0">
 
 
 **## Usage**
